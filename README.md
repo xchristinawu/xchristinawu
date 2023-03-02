@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
 
-<h3 align="center">Hi! I'm Christina Wu, a Java bootcamp student with a background in education/office administration. Due to my love of optimizing and automating clerical procedures, I've discovered programming to be incredibly stimulating and rewarding. I'm currently completing an intensive 14 week full-stack software engineering bootcamp where I'll be developing my skills in Java, PostgreSQL, Spring Boot, HTML/CSS/JavaScript, and Vue.js.</h3>
+<h3 align="center">Hi! I'm Christina Wu, a Software Engineer Apprentice with a background in education/office administration. Due to my love of optimizing and automating clerical procedures, I've discovered programming to be incredibly stimulating and rewarding. I'm currently completing an intensive 6 month software engineering apprenticeship where I'll be developing my skills in Unity, C#, and AR technologies.</h3>
 
 - 🌱 I’m currently learning **Java, PostgreSQL, JavaScript, Vue.js**
 - ⚡ Fun fact **I am a Cellist and lifelong Pokémon fan!**
