@@ -2,10 +2,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
 
-<h3 align="center">Hi! I'm Christina Wu, a Software Engineer Apprentice with a background in education/office administration. Due to my love of optimizing and automating clerical procedures, I've discovered programming to be incredibly stimulating and rewarding. I'm currently completing an intensive 6 month software engineering apprenticeship where I'll be developing my skills in Unity, C#, and AR technologies.</h3>
+<h3 align="center">Hi! I'm Christina Wu, a Software Engineer with a background in education/office administration. Due to my love of optimizing and automating clerical procedures, I've discovered programming to be incredibly stimulating and rewarding.</h3>
 
 - 🌱 I’m currently learning **Unity and C#**
-- ⚡ Fun fact **I am a Cellist and lifelong Pokémon fan!**
+- ⚡ Fun fact **I am a Cellist!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
