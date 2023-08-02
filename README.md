@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
 
-<h3 align="center">Hi! I'm Christina Wu, a Software Engineer with a background in education/office administration. Due to my love of optimizing and automating clerical procedures, I've discovered programming to be incredibly stimulating and rewarding.</h3>
+<h3 align="center">Hi! I'm Christina, a Software Engineer with a background in education and music. Due to my love of optimizing and automating processes, I've discovered programming and found it to be so incredibly stimulating and rewarding that I decided to change careers. Looking for my next position as a Software Engineer!</h3>
 
 - ⚡ Fun fact **I am a Cellist!**
 
