@@ -2,9 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
 
-<h3 align="center">Hi! I'm Christina, a Software Engineer with a background in education and music. Due to my love of optimizing and automating processes, I discovered programming and found it to be so incredibly stimulating and rewarding that I decided to change careers.</h3>
-
-- ⚡ Fun fact **I am a Cellist!**
+<h3 align="center">Hi! I'm Christina, a Software Engineer with a background in education and music.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
